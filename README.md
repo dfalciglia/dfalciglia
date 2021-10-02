@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Danilo
 - 👀 I’m interested in 
   - Learning new skills (not necessarily development skills)
-  - Build something usefule
+  - Build something useful
 - 🌱 I’m currently learning
   - Golang
   - ReactJS
